@@ -32,7 +32,7 @@ Bu projede amaç; şarabın fiyatı, menşei, üzüm türü gibi bilgileri kulla
 4. **K-Nearest Neighbors Regressor**
 
 
-## 📊 Performans Metrikleri
+## Performans Metrikleri
 
 | Model                   | MAE   | MSE   | RMSE  | R²    |
 |------------------------|-------|-------|-------|-------|
